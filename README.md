@@ -6,3 +6,5 @@ REQUIREMENTS
 1.Existing domain controller
 2.Deploy to the resource group, VNET and Subnet of the domain controller
 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/) 
+
